@@ -1,0 +1,2 @@
+TipoOperacion: transferencia; cuentaOrigen:4; cuentaInscrita:10; Monto:200; fechaHoraInscripcion:2021/09/06;
+======================================

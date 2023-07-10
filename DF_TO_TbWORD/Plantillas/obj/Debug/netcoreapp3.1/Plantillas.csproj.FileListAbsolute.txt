@@ -1,0 +1,16 @@
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.csproj.AssemblyReference.cache
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.AssemblyInfoInputs.cache
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.AssemblyInfo.cs
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.csproj.CoreCompileInputs.cache
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\Plantillas.exe
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\Plantillas.deps.json
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\Plantillas.runtimeconfig.json
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\Plantillas.runtimeconfig.dev.json
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\Plantillas.dll
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\Plantillas.pdb
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.csproj.CopyComplete
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.dll
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.pdb
+C:\Users\Bernal\source\repos\Plantillas\Plantillas\obj\Debug\netcoreapp3.1\Plantillas.genruntimeconfig.cache

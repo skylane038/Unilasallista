@@ -1,0 +1,2 @@
+TipoOperacion: Transferencia; \ncuentaOrigen: 11321415; \ncuentaInscrita: 2345678; \nMonto: 350000; \nfechaHoraInscripcion: 29/0972021
+======================================
